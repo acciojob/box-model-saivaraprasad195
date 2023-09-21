@@ -21,14 +21,14 @@
 }
 
 .red{
-    background-color: green;
+    background-color: red;
     display: inline;
 }
 .green{
-    background-color: yellow;
+    background-color: green;
     display: inline;
 }
 .yellow{
-    background-color: red;
+    background-color: yellow;
     display: inline;
 }
